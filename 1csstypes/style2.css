@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+.text-danger
+{
+    color:red
+
+}
+
+.text-sucess{
+    color: green;
+}
+.text-dec-underline{
+    text-decoration: underline;
+}

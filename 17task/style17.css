@@ -1,0 +1,27 @@
+
+
+
+
+
+
+.aboutme{
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.image img{
+
+    border: 5px solid red;
+    border-radius: 50px;
+    height: 70px;
+    width: 70px;
+
+}

@@ -1,0 +1,13 @@
+.border{
+   border: 2px black solid;
+}
+.parent{
+    width: 600px;
+    background-color: green;
+    height: 400px;
+}
+.child{
+    width: 300px;
+    background-color: blue;
+    height: 200px;
+}
